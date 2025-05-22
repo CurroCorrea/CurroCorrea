@@ -1,8 +1,8 @@
-## Hi there 👋
+## HOLA! 👋
 
-Mi nombre es Curso. He cursado un doble grado de desarrollo de aplicaciones multiplataforma y web (DAM Y DAW) y disfruto creado nuevos proyectos 📱
+Mi nombre es Curro. He cursado un doble grado de desarrollo de aplicaciones multiplataforma y web (DAM Y DAW) y disfruto aprendiendo y creando nuevos proyectos 📱
 
-Tengo conocimiento de tecnologías como  SQL, PostgreSQL, MongoDB, y en cuanto a lenguajes y frameworks, Java, Laravel (PHP), Javascript, TypesScript y React, tambien se algo de Angular👨‍💻
+Tengo conocimiento de tecnologías como  SQL, PostgreSQL, MongoDB, y en cuanto a lenguajes y frameworks, Java, Spring, Python, Laravel (PHP), Javascript, TypesScript y React, tambien se algo de Angular👨‍💻
 
 Aquí encontrarás mis proyectos personales.
 
